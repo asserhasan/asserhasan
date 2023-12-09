@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Asser Hassan Sayed 
+👨‍🎓 student at Helwan University, Faculty of Computer Science and Artificial Intelligence.
 <!--
 **asserhasan/asserhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
